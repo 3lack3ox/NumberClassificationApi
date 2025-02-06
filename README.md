@@ -1,7 +1,7 @@
 # NumberClassificationApi
 An API that takes a number and returns interesting mathematical properties about it, along with a fun fact.
 
-# HNG-2025 Readme for Stage 1
+# HNG-2025 Stage One
 
 ## Setting Up PHP 8.0 with Apache on Ubuntu
 
