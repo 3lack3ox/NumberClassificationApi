@@ -73,8 +73,8 @@ sudo apt-get install php8.0-curl php8.0-pdo-mysql php8.0-bcmath -y
 Navigate to the web root directory and create an `/api` directory:
 ```sh
 cd /var/www/html/
-sudo mkdir /api
-cd /api
+sudo mkdir api
+cd api
 ```
 Create the `number_classify.php` file:
 ```sh
