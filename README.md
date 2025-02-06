@@ -89,7 +89,7 @@ Save the file (`CTRL + X`, then `Y`, then `ENTER`).
 
 Test the API by visiting:
 ```
-http://34.228.212.209/api/number_classify.php?number=371
+http://44.202.143.136/api/number_classify.php?number=371
 ```
 
 ---
@@ -222,7 +222,7 @@ sudo tail -f /var/log/apache2/error.log
 
 When uploading, use:
 ```
-http://34.228.212.209/api/number_classify.php?number=371# without parameter
+http://44.202.143.136/api/number_classify.php?number=371# without parameter
 ```
 
-Repository: 
+Repository: [Github](https://github.com/3lack3ox/NumberClassificationApi.git)
